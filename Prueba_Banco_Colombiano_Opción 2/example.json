@@ -1,0 +1,10 @@
+{
+  "first_name": "John",
+  "last_name": "Doe",
+  "date_birth": "1990-01-01",
+  "address": "123 Main St",
+  "token": "abc123",
+  "password": "mypassword",
+  "mobile_phone": "555-555-5555",
+  "email": "john.doe@example.com"
+}
