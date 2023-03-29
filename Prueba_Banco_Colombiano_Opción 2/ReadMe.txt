@@ -48,4 +48,3 @@ Copy code
 }
 This will add a new user to the database with the specified details.
 
-I hope this helps! Let me know if you have any further questions.
